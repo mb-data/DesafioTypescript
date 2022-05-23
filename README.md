@@ -7,7 +7,7 @@ Desafio de contratação Khipo. Realize um fork deste repositório e faça as et
 
 
 ## Etapa 1 (Backend)
-Realize essaa etapa apenas se for candidato a vaga Backend ou Fullstack.
+Realize essa etapa apenas se for candidato a vaga Backend ou Fullstack.
 
 Utilizando o framework NestJS(https://docs.nestjs.com/) crie uma ``API Rest``. Essa API deverá ser capaz de CRUD em um banco de dados de ``Produtos``. É permitido utilizar qualquer banco de dados relacional, fica a critério do programador.
 
@@ -63,7 +63,7 @@ Observações
 
 
 ## Etapa 2 (Frontend)
-Realize essaa etapa apenas se for candidato a vaga Frontend ou Fullstack. 
+Realize essa etapa apenas se for candidato a vaga Frontend ou Fullstack. 
 
 Faça um website com NextJS (https://nextjs.org/docs) e TypeScript. Esse site deve exibir uma lista de produtos de uma loja, através de uma API fornecida. Faça tratamento de erro para as chamadas.
 
