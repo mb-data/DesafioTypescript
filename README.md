@@ -74,7 +74,7 @@ Exiba a seguinte tela, com ``Nome, Preço e Marca`` e renderize uma ``Foto`` de 
 
 Link do Figma: https://www.figma.com/file/T7afvsovDPP9IGPZqLb9us/Desafio-Khipo?node-id=0%3A1
 
-#### ``Importante``: Caso esteja aplicando para Frontend, é necessário fazer os valores dos styles baseados nos valores do Figma, além de responsivos. Para fullstack isso não será cobrado. Ambos devem focar em componentizar e fazer um código legível.
+#### ``Importante``: É necessário fazer os valores dos styles baseados nos valores do Figma, além de responsivos. Também é importante componentizar e fazer um código legível.
 
 
 
